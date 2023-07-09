@@ -1,1 +1,1 @@
-# sddm
+# Catacula for sddm
